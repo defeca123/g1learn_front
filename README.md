@@ -1,7 +1,7 @@
 ### Para instalar as dependencias rode o seguinte comando:
 
-    ### `npm install`
+    npm install
 
 ### Para rodar o projeto rode o seguinte comando:
 
-    ### `npm start`
+    npm start
